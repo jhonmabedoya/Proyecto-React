@@ -1,0 +1,33 @@
+.ciudadPrincipal{
+    border: 3px solid rgb(12, 12, 9);
+    background-color: bisque;
+}
+
+.card-img-top{
+    width: 296px;
+    height: 200px;
+}
+
+.card-body{
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 25px;
+    font-style: bold;
+}
+
+.card-paisP{
+    padding-top:5px;
+    font-style: bold;
+}
+
+.card-temperatura-p{
+    font-size: 30px;
+}
+
+
+.descripcion{
+    font-weight: bold;
+}

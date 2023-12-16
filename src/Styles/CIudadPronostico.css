@@ -1,0 +1,24 @@
+.fechaP{
+    font-weight: bold;
+    padding-bottom:10px;
+}
+
+.paisP{
+    padding-top:10px;
+    padding-bottom:5px;
+}
+
+
+.cardP{
+    border: 2px solid rgb(12, 12, 9);
+    background-color: bisque;
+    
+}
+
+.subtitleP{
+    font-size: 30px;
+}
+
+.descripcionP{
+    font-weight: bold;
+}

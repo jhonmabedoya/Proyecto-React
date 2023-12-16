@@ -1,0 +1,52 @@
+.container{
+    border-bottom:3px solid #000a60; 
+    margin-bottom: 50px;
+    font-family: cursive;
+}
+
+.img-fluid {
+    width: 50%;
+    height: auto;
+}
+
+.logo-img{
+    width: 80%; 
+    height: auto;
+    margin-bottom: 15px;
+    background-color:rgb(255, 255, 253);
+    border:#000a60  5px solid
+
+}
+
+.text-center{
+    width: 40%;
+}
+
+.heading-1{
+    
+    display:block; 
+    border-bottom:3px solid #000a60; 
+    padding-bottom:5px;
+    color: rgb(12, 12, 9);
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    
+}
+
+.heading-2{
+    color: rgb(12, 12, 9);
+    margin-bottom: 15px; 
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.heading-3{
+    color: rgb(12, 12, 9);
+    margin-bottom: 25px; 
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
